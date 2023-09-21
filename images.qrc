@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/maps/maze1.png</file>
+        <file>images/maps/maze2.png</file>
+        <file>images/maps/maze3.png</file>
+        <file>images/maps/worldmap.png</file>
+        <file>images/maps/worldmap4.png</file>
+        <file>images/maps/file-open.png</file>
+        <file>images/Goku/goku_attack_1.png</file>
+        <file>images/Goku/goku_dead_1.png</file>
+        <file>images/Goku/goku_down_1.png</file>
+        <file>images/Goku/goku_health_1.png</file>
+        <file>images/Goku/goku_health_2.png</file>
+        <file>images/Goku/goku_left_1.png</file>
+        <file>images/Goku/goku_left_2.png</file>
+        <file>images/Goku/goku_poisoned_1.png</file>
+        <file>images/Goku/goku_poisoned_2.png</file>
+        <file>images/Goku/goku_right_1.png</file>
+        <file>images/Goku/goku_right_2.png</file>
+        <file>images/Goku/goku_up_1.png</file>
+        <file>images/enemies/enemy/enemy_dead.png</file>
+        <file>images/enemies/enemy/enemy_idle.png</file>
+        <file>images/enemies/penemy/penemy_attack.png</file>
+        <file>images/enemies/penemy/penemy_dead.png</file>
+        <file>images/enemies/penemy/penemy_idle.png</file>
+        <file>images/enemies/penemy/poison.png</file>
+        <file>images/enemies/xenemy/xenemy_dead.png</file>
+        <file>images/enemies/xenemy/xenemy_idle.png</file>
+        <file>images/enemies/xenemy/xenemy_powerup.png</file>
+        <file>images/Goku/dragon_ball.jpg</file>
+        <file>images/Goku/goku_idle.png</file>
+    </qresource>
+</RCC>
